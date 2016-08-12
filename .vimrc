@@ -138,7 +138,7 @@ filetype on        " 侦测文件类型
 filetype plugin on " 载入文件类型插件
 filetype indent on " 为特定文件类型载入相关缩进文件
 
-noremap <Leader>22 :call CodeFormart()<CR>
+noremap <Leader>22 :call CodeFormart()<CR><CR>
 
 func CodeFormart()
     exec "w"
