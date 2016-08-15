@@ -5,7 +5,7 @@
 "<Leader>44:打开关闭minibufexpl;
 "<Leader>55:打开关闭indent guides;
 "<Leader>00:打开YCM错误信息窗口;
-"<Leader>g:转到定义或声明;
+"<Leader>g :转到定义或声明;
 "<Leader>a :转到.h或.cpp文件;
 """""""""""""""""""""""""""""" Usage end """""""""""""""""""""""""""""""
 
